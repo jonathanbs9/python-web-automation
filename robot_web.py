@@ -19,6 +19,8 @@ selector_usuario = ''
 selector_contraseñ = '' 
 boton_login = ''
 
+
+
 # Navegador 
 driver = webdriver.Chrome()
 
